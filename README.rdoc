@@ -1,3 +1,7 @@
+= Archived Repo
+
+This is an archived fork and is no longer supported or updated by Facebook. Please do not file issues or pull-requests against this repo. The primary on-going source of the project may now be found at https://github.com/watir/watir-classic
+
 = Watir
 
 Watir, pronounced water, is an open-source (BSD) family of Ruby libraries for automating web browsers. It supports your app no matter what technology it is developed in. They support Internet Explorer on Windows, Firefox and Chrome on Windows, Mac and Linux and Safari on Mac.
